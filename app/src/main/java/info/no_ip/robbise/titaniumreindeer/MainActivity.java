@@ -7,7 +7,7 @@ import android.view.MenuItem;
 
 
 public class MainActivity extends ActionBarActivity {
-// replacing all comments!
+// replacing comments!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
