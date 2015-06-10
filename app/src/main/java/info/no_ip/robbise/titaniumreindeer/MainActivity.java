@@ -38,4 +38,32 @@ public class MainActivity extends ActionBarActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    /****
+    * MEMBER VARIABLES
+    */
+
+    //contestantGetter;
+    //entriesGetter;
+    //entryInserter;
+    //userCreator;
+
+    /****
+     * METHODS
+     */
+    getContestant() {
+
+    }
+
+    getEntries() {
+
+    }
+
+    insertEntry() {
+
+    }
+
+    createNewUser() {
+
+    }
 }
